@@ -29,12 +29,3 @@ while condition==True:
 
     
     
-
-
-# Determine CPU_choice
-CPU = random.choice("options")
-
-# while true:
-#     if player__choice == CPU_choice:
-#         continue
-#     elif player__choice
